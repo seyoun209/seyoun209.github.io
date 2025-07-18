@@ -40,9 +40,9 @@ repo_trophies:
 # Academic Info
 # -----------------------------------------------------------------------------
 
-cv: /assets/pdf/byun-cv.pdf
-google_scholar: https://scholar.google.com/citations?user=YOUR-ID
-orcid: https://orcid.org/YOUR-ID
+cv: https://seyoun209.github.io/cv/
+google_scholar: https://scholar.google.com/citations?hl=en&user=SEhfvSsAAAAJ
+orcid: https://orcid.org/0000-0002-2915-6012
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
